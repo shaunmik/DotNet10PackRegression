@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetPackInconsistency", "DotnetPackInconsistency\DotnetPackInconsistency.csproj", "{DC34030A-15AE-413F-BB23-20DE96936B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetPackInconsistency.Consumer", "DotnetPackInconsistency.Consumer\DotnetPackInconsistency.Consumer.csproj", "{5971B493-777D-4A9F-BB39-FCF21FEC8619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC34030A-15AE-413F-BB23-20DE96936B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC34030A-15AE-413F-BB23-20DE96936B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC34030A-15AE-413F-BB23-20DE96936B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC34030A-15AE-413F-BB23-20DE96936B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5971B493-777D-4A9F-BB39-FCF21FEC8619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5971B493-777D-4A9F-BB39-FCF21FEC8619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5971B493-777D-4A9F-BB39-FCF21FEC8619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5971B493-777D-4A9F-BB39-FCF21FEC8619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

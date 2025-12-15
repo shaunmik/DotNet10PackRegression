@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <Version>1.0.0</Version>
+        <TargetFramework>net8.0-windows</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="NUnit3TestAdapter" Version="6.0.0" />
+    </ItemGroup>
+</Project>
